@@ -489,6 +489,10 @@
               "label": "Text",
               "default": "Welcome to our store"
             },
+            "text2": {
+              "label": "Text 2",
+              "default": "Welcome to our store"
+            },
             "text_alignment": {
               "label": "Text alignment",
               "options__1": {
